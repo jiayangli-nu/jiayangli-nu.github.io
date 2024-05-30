@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+<!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a **Ph.D. candidate** in the [Department of Civil and Environmental Engineering](https://www.mccormick.northwestern.edu/civil-environmental/) at Northwestern University and an incoming **tenured-track assistant professor** in the [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/) at the University of Hong Kong. I received my B.S. degree in mathematics and applied mathematics from Tsinghua University in 2019.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research aims to bring together **optimization**, **game theory**, and **machine learning** to address **operations research** challenges, with a focus on those related transportation and mobility. Looking ahead, I am looking forward to expanding my research to applications within other complex systems, such as infrastructure, energy, environmental systems and beyond. The ultimate goal of my research is to enhance the quality of life across diverse human habitats.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+<p><strong>Openings</strong></p>
+
+I am looking for self-motivated Ph.D. students and postdoctoral researchers with a strong mathematical and/or programming background for 2025 Fall.  I am also happy to host remote undergraduate research interns for 2024 Summer. If you have interests, please reach me directly by email at <a href="mailto:jiayangl@hku.hk">jiayangl@hku.hk</a>.
+
+
+&nbsp;

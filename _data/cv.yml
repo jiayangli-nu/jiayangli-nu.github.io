@@ -1,97 +1,107 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Full name
+      value: Jiayang Li
+    - name: Email
+      value: <a href="mailto:jiayangl@hku.hk">jiayangl@hku.hk</a> or <a href="mailto:jiayangli2024@u.northwestern.edu">jiayangli2024@u.northwestern.edu</a>
+    - name: Google Scholar
+      value: <a href="https://scholar.google.com/citations?user=-M1ZC7gAAAAJ">https://scholar.google.com/citations?user=-M1ZC7gAAAAJ</a>
+    - name: Research Interests
+      value: Optimization, Game theory, Machine learning, Transportation
+
+- title: Appointments
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: <a href="https://www.imse.hku.hk/">Department of Industrial and Manufacturing Systems Engineering</a>, The University of Hong Kong
+      year: 2024 -
+
+    - title: Research/Teaching Assistant
+      institution: <a href="https://www.mccormick.northwestern.edu/civil-environmental/">Department of Civil and Enviromental Engineering</a>, Northwestern University
+      year: 2020 - 2024
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy
+      institution: <a href="https://www.mccormick.northwestern.edu/civil-environmental/">Department of Civil and Enviromental Engineering</a>, Northwestern University
+      year: 2019 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "<b>Committee:</b> Prof. <a href='https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/nie-yu.html'>Yu (Marco) Nie</a>, Prof. <a href='https://zhaoranwang.github.io/'>Zhaoran Wang</a>, and Prof. <a href='https://cee.engin.umich.edu/people/yin-yafeng/'>Yafeng Yin</a>"
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Bachelor of Science
+      institution: <a href="https://www.math.tsinghua.edu.cn/">Department of Mathematical Science</a>, Tsinghua University
+      year: 2015 - 2019
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://www.mccormick.northwestern.edu/">McCormick School of Engineering</a> Terminal Year Fellowship, Northwestern University
+    - year: 2023
       items:
-        - Max Planck Medal
+        - <a href="https://transportation.northwestern.edu/">Transportation Center</a> Dissertation Year Fellowship, Northwestern University
+    - year: 2021
+      items:
+        - Outstanding Reviewer Award, <a href="https://neurips.cc/Conferences/2021">Thirty-fifth Conference on Neural Information Processing Systems</a>
+    - year: 2019
+      items:
+        - Outstanding Undergraduate Thesis Award, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>
+    - year: 2016
+      items:
+        - Outstanding Student Leadership Award, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>
 
-- title: Academic Interests
-  type: nested_list
+- title: Publications
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year: 2024
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - <b>Jiayang Li</b>, Jing Yu, Qianni Wang, Boyi Liu, Zhaoran Wang, Yu Marco Nie. <b>Differentiable bilevel programming for Stackelberg congestion games.</b> Under Revision at <i>Operations Research.</i>
+    - year: 2024
       items:
-        - Description 1.
-        - Description 2.
+        - Jun Xi, Qianni Wang, <b>Jiayang Li</b>, Yu Marco Nie. <b>An efficient algorithm for continuous bi-criteria traffic assignment..</b> Under Revision at <i>Operations Research.</i>
+    - year: 2024
+      items:
+        - Qianni Wang, Liyang Feng, <b>Jiayang Li</b>, Jun Xie, Marco Nie. <b>Entropy maximization in multi-class traffic assignment.</b> Under Revision at <i>Transportation Research Part B.</i>
+    - year: 2024
+      items:
+        - <b>Jiayang Li</b>, Qianni Wang, Liyang Feng, Jun Xie, Yu Marco Nie <b>A day-to-day dynamical approach to the most likely user equilibrium problem.</b> <i>Transportation Science.</i>
+    - year: 2024
+      items:
+        - "<b>Jiayang Li</b>, Zhaoran Wang, Yu Marco Nie. <b>Wardrop equilibrium can be boundedly rational: A new behavioral theory of route choice.</b> Under Revision at <i>Transportation Science.</i>"
+    - year: 2023
+      items:
+        - Tianxing Dai, <b>Jiayang Li</b>, Yu Marco Nie. <b>Accessibility-based ethics-aware transit design.</b> <i>Transportation Research Part B.</i>
+    - year: 2023
+      items:
+        - <b>Jiayang Li</b>, Jing Yu, Boyi Liu, Yu Marco Nie, Zhaoran Wang. <b>Achieving hierarchy-free approximation for bilevel programs with equilibrium constraints.</b> <i>In Proceedings of the 40th International Conference on Machine Learning.</i>
+    - year: 2022
+      items:
+        - "Boyi Liu, <b>Jiayang Li</b>, Zhuoran Yang, Hoi To Wai, Mingyi Hong, Yu Marco Nie, Zhaoran Wang. <b>Inducing equilibria via incentives: Simultaneous design-and-play ensures global convergence.</b> <i>Advances in Neural Information Processing Systems 35.</i>"
+    - year: 2022
+      items:
+        - Siyu Chen, Donglin Yang, <b>Jiayang Li</b>, Senmiao Wang, Zhuoran Yang, Zhaoran Wang. <b>Adaptive model design for Markov decision process.</b> <i>In Proceedings of the 39th International Conference on Machine Learning.</i>
+    - year: 2020
+      items:
+        - "<b>Jiayang Li</b>, Jing Yu, Zhaoran Wang, Yu Marco Nie. <b>End-to-end learning and intervention in games.</b> <i>Advances in Neural Information Processing Systems 33.</i>"
 
-- title: Other Interests
-  type: list
+- title: Professional Services
+  type: map
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: Session Chair
+      value:  2024 Institute for Operations Research and the Management Sciences <a href="https://meetings.informs.org/wordpress/seattle2024/">(INFORMS)</a> Annual Meeting
+
+    - name: ""
+      value:
+
+    - name: Conference Reviewer
+      value: International Conference on Learning Representations (<a href="https://iclr.cc/">ICLR</a>), International Conference on Machine Learning (<a href="https://icml.cc/">ICML</a>), IEEE Intelligent Vehicles Symposium (<a href="https://ieee-iv.org/">IEEE IV</a>), Annual Conference on Neural Information Processing Systems (<a href="https://neurips.cc/">NeurIPS</a>)
+
+    - name: ""
+      value:
+
+    - name: Journal Reviewer
+      value: Acta Automatica Sinica (<a href="https://www.sciencedirect.com/journal/acta-automatica-sinica">AAS</a>), Journal of Infrastructure Systems (<a href="https://ascelibrary.org/journal/jitse4">JIS</a>), IEEE Transactions on Intelligent Transportation Systems  (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979">IEEE T-ITS</a>), IEEE Transactions on Intelligent Vehicles (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857">IEEE T-IV</a>), Transportation Research Part E (<a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">TR-E</a>), Transportation Science (<a href="https://pubsonline.informs.org/journal/trsc">TS</a>)
