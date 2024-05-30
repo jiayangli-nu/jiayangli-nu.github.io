@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a **Ph.D. candidate** in the [Department of Civil and Environmental Engineering](https://www.mccormick.northwestern.edu/civil-environmental/) at Northwestern University and an incoming **tenured-track assistant professor** in the [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/) at the University of Hong Kong. I received my B.S. degree in mathematics and applied mathematics from Tsinghua University in 2019.
 
-My research aims to bring together **optimization**, **game theory**, and **machine learning** to address **operations research** challenges, with a focus on those related transportation and mobility. Looking ahead, I am looking forward to expanding my research to applications within other complex systems, such as infrastructure, energy, environmental systems and beyond. The ultimate goal of my research is to enhance the quality of life across diverse human habitats.
+My research aims to bring together **optimization**, **game theory**, and **machine learning** to address **operations research** challenges, particular within transportation and mobility systems. Looking ahead, I am looking forward to expanding my research to applications within other complex systems, such as infrastructure, energy, environmental systems and beyond. The ultimate goal of my research is to enhance the quality of life across diverse human habitats.
 
 
 <p><strong>Openings</strong></p>
