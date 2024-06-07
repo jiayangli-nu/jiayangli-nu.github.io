@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper titled "Wardrop equilibrium can be bounedly rational: A new behavioral theory of route choice" is accepted by [Transportation Science (TS)](https://pubsonline.informs.org/journal/trsc). Glad that the two TS submissions have been accepted almost simultaneously.
+My paper titled "Wardrop equilibrium can be bounedly rational: A new behavioral theory of route choice" is accepted by [Transportation Science (TS)](https://pubsonline.informs.org/journal/trsc).
