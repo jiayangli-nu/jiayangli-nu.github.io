@@ -54,40 +54,6 @@
       items:
         - Outstanding Student Leadership Award, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>
 
-# - title: Publications
-#   type: time_table
-#   contents:
-#     - year: 2024
-#       items:
-#         - <b>Jiayang Li</b>, Jing Yu, Qianni Wang, Boyi Liu, Zhaoran Wang, Yu Marco Nie. <b>Differentiable bilevel programming for Stackelberg congestion games.</b> Under Revision at <i>Operations Research.</i>
-#     - year: 2024
-#       items:
-#         - Jun Xi, Qianni Wang, <b>Jiayang Li</b>, Yu Marco Nie. <b>An efficient algorithm for continuous bi-criteria traffic assignment.</b> Under Revision at <i>Operations Research.</i>
-#     - year: 2024
-#       items:
-#         - Qianni Wang, Liyang Feng, <b>Jiayang Li</b>, Jun Xie, Marco Nie. <b>Entropy maximization in multi-class traffic assignment.</b> Under Revision at <i>Transportation Research Part B.</i>
-#     - year: 2024
-#       items:
-#         - <b>Jiayang Li</b>, Qianni Wang, Liyang Feng, Jun Xie, Yu Marco Nie <b>A day-to-day dynamical approach to the most likely user equilibrium problem.</b> <i>Transportation Science.</i>
-#     - year: 2024
-#       items:
-#         - "<b>Jiayang Li</b>, Zhaoran Wang, Yu Marco Nie. <b>Wardrop equilibrium can be boundedly rational: A new behavioral theory of route choice.</b> <i>Transportation Science.</i>"
-#     - year: 2023
-#       items:
-#         - Tianxing Dai, <b>Jiayang Li</b>, Yu Marco Nie. <b>Accessibility-based ethics-aware transit design.</b> <i>Transportation Research Part B.</i>
-#     - year: 2023
-#       items:
-#         - <b>Jiayang Li</b>, Jing Yu, Boyi Liu, Yu Marco Nie, Zhaoran Wang. <b>Achieving hierarchy-free approximation for bilevel programs with equilibrium constraints.</b> <i>In Proceedings of the 40th International Conference on Machine Learning.</i>
-#     - year: 2022
-#       items:
-#         - "Boyi Liu, <b>Jiayang Li</b>, Zhuoran Yang, Hoi To Wai, Mingyi Hong, Yu Marco Nie, Zhaoran Wang. <b>Inducing equilibria via incentives: Simultaneous design-and-play ensures global convergence.</b> <i>Advances in Neural Information Processing Systems 35.</i>"
-#     - year: 2022
-#       items:
-#         - Siyu Chen, Donglin Yang, <b>Jiayang Li</b>, Senmiao Wang, Zhuoran Yang, Zhaoran Wang. <b>Adaptive model design for Markov decision process.</b> <i>In Proceedings of the 39th International Conference on Machine Learning.</i>
-#     - year: 2020
-#       items:
-#         - "<b>Jiayang Li</b>, Jing Yu, Zhaoran Wang, Yu Marco Nie. <b>End-to-end learning and intervention in games.</b> <i>Advances in Neural Information Processing Systems 33.</i>"
-
 - title: Professional Services
   type: map
   contents:

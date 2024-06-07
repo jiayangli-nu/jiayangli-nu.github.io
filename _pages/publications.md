@@ -10,7 +10,7 @@ sections:
   - bibquery: "@article"
     text: "Conference/Journal Proceedings"
 
-years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
+years: [2024, 2023, 2022, 2021, 2020]
 
 nav: true
 nav_order: 2
@@ -32,7 +32,6 @@ nav_order: 2
     {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
     {%- if citecount !="0" %}
 
-      <!-- <h2 class="year">{{y}}</h2> -->
       {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
 
     {%- endif -%}

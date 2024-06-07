@@ -1124,6 +1124,7 @@ ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-bg-color);
 }
 
+
 /* Mobile devices. With class="hidden-mobile" the element not show */
 @media (max-width: 576px) {
         .hidden-mobile {
@@ -1145,7 +1146,7 @@ ninja-keys::part(ninja-input-wrapper) {
 p.bibtitle {
 	color: var(--global-theme-color);
     	font-weight: 400;
-    	font-size: 1.75em;
+    	font-size: 1.76em;
     	text-align: center;
     	border-bottom: 1px solid #bbb;
 }
