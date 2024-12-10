@@ -5,6 +5,10 @@ title: Publications
 description: Publications in reversed chronological order.
 sections:
   - bibquery: "@unpublished"
+    text: "Working Papers"
+
+
+  - bibquery: "@preprints"
     text: "Preprints"
 
   - bibquery: "@article"

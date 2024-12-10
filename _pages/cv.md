@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf:
-description: Jiayang Li's Curriculum Vitae (Nov. 29, 2024).
+description: Jiayang Li's Curriculum Vitae.
 toc:
   sidebar: left
 ---
