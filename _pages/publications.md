@@ -4,12 +4,11 @@ permalink: /publications/
 title: Publications
 description: Publications in reversed chronological order.
 sections:
-  - bibquery: "@unpublished"
-    text: "Working Papers"
+
 
 
   - bibquery: "@preprints"
-    text: "Preprints"
+    text: "Submitted Papers and Preprints"
 
   - bibquery: "@article"
     text: "Conference/Journal Proceedings"
