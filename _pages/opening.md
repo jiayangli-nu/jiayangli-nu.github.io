@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-I am actively seeking self-motivated Ph.D. students and postdoctoral researchers with strong mathematical and/or programming backgrounds to join my lab starting in 2025 Spring or 2025 Fall. I am also happy to host remote undergraduate research interns.  Below is a brief introduction to my research and information about the available positions.
+I am actively seeking self-motivated Ph.D. students and postdoctoral researchers with strong mathematical and/or programming backgrounds to join my lab starting in 2026 Spring or 2026 Fall. I am also happy to host remote undergraduate research interns.  Below is a brief introduction to my research and information about the available positions.
 
 
 ### **An Introduction to My Research**
@@ -27,7 +27,7 @@ Looking ahead, I am eager to expand my research to other topics, including appli
 ### **Ph.D. Positions**
 
 
-I am looking for 1-2 self-motivated Ph.D. students to join my research group in 2025 Spring or 2025 Fall. Successful applicants should meet the following criteria.
+I am looking for 1-2 self-motivated Ph.D. students to join my research group in 2026 Spring or 2026 Fall. Successful applicants should meet the following criteria.
 
 - Strong mathematical and/or programming skills.
 
@@ -49,7 +49,7 @@ If you are interested, please email me at jiayangl@hku.hk with the following mat
 
 ### **Postdoctoral Positions**
 
-I am also looking for 1-2 postdoctoral researchers to join my research group in Spring 2025 or Fall 2025. The basic salary is no less than HK$30,000 per month. Outstanding candidates are strongly encouraged to apply for the RGC Postdoctoral Fellowship Scheme (PDFS).
+I am also looking for 1-2 postdoctoral researchers to join my research group in Spring 2026 or Fall 2026. The basic salary is no less than HK$30,000 per month. Outstanding candidates are strongly encouraged to apply for the RGC Postdoctoral Fellowship Scheme (PDFS).
 
 If you are interested, please email me at jiayangl@hku.hk with the following materials:
 

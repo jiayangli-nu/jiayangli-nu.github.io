@@ -22,7 +22,7 @@ My research aims to bring together **optimization**, **game theory**, and **mach
 
 <p><strong>Openings</strong></p>
 
-I am looking for self-motivated Ph.D. students and postdoctoral researchers with a strong mathematical and/or programming background for 2025 Spring and 2025 Fall.  I am also happy to host remote undergraduate research interns. If you have interests, please reach me directly by email at <a href="mailto:jiayangl@hku.hk">jiayangl@hku.hk</a>.
+I am looking for self-motivated Ph.D. students and postdoctoral researchers with a strong mathematical and/or programming background for 2026 Spring and 2026 Fall.  I am also happy to host remote undergraduate research interns. If you have interests, please reach me directly by email at <a href="mailto:jiayangl@hku.hk">jiayangl@hku.hk</a>.
 
 
 &nbsp;
