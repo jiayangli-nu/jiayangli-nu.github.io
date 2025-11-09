@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /group/
 title: Group
 description: Members of the Research Group
 nav: true

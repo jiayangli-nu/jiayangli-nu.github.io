@@ -4,7 +4,7 @@
     - name: Full name
       value: Jiayang Li
     - name: Email
-      value: <a href="mailto:jiayangl@hku.hk">jiayangl@hku.hk</a> or <a href="mailto:jiayangli2024@u.northwestern.edu">jiayangli2024@u.northwestern.edu</a>
+      value: <a href="mailto:jiayangl@hku.hk">jiayangl@hku.hk</a>
     - name: Google Scholar
       value: <a href="https://scholar.google.com/citations?user=-M1ZC7gAAAAJ">https://scholar.google.com/citations?user=-M1ZC7gAAAAJ</a>
     - name: Research Interests
@@ -42,6 +42,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - <a href="https://pubsonline.informs.org/journal/trsc/">Transportation Science</a> Meritorious Service Award, Northwestern University
     - year: 2023
       items:
         - <a href="https://www.mccormick.northwestern.edu/">McCormick School of Engineering</a> Terminal Year Fellowship, Northwestern University
