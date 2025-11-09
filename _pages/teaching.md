@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+title: Group
+description: Members of the Research Group
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**PhD students**
 
-Organize your courses by years, topics, or universities, however you like!
+- Mr. Hanlin Sun,  B.S./M.S. (Beihang University), 2025 –
+- Ms. Yaxin Liu, B.S. (Chinese University of Hong Kong), 2026 –
+
+
+**Postdoctoral fellows**
+
+- Dr. Zhiya Su, Ph.D. (Hong Kong University of Science and Technology), 2025 –
+- Dr. Xuming An, Ph.D. (Beijing Institute of Technology), 2025 –
+- Dr. Liyang Feng, Ph.D. (Southwest Jiaotong University), 2025 –
