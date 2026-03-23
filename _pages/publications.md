@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: "<strong>Legend</strong>: <sup>*</sup> corresponding author; <sup>†</sup> equal contribution; <u>underlined</u> represents group members."
+description: <sup>*</sup> represents corresponding author; <sup>†</sup> represents equal contribution; <u>underlined</u> represents group members."
 sections:
 
 
